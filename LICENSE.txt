@@ -1,0 +1,411 @@
+# LICENSE - ALL RIGHTS RESERVED © 2026
+
+## PROPRIETARY SOFTWARE LICENSE
+
+**Copyright © 2026 Michael Hassan Wanyama**
+
+**ALL RIGHTS RESERVED**
+
+---
+
+## 1. GRANT OF LICENSE
+
+This License Agreement ("Agreement") is entered into between Michael Hassan Wanyama ("Licensor") and any person or entity obtaining a copy of the Emergency Response App software ("Software").
+
+### 1.1 Limited License
+
+The Licensor grants you a NON-EXCLUSIVE, NON-TRANSFERABLE, REVOCABLE license to use the Software ONLY if:
+
+1. You have obtained explicit written authorization from Michael Hassan Wanyama
+2. You have signed a valid license agreement
+3. You comply with all terms and conditions of this License
+4. You properly attribute the author in all uses
+
+### 1.2 No Other Rights
+
+No other rights or licenses are granted, whether implied, by estoppel, or otherwise. All other rights are reserved exclusively to the Licensor.
+
+---
+
+## 2. RESTRICTIONS - STRICTLY PROHIBITED
+
+### 2.1 Replication
+
+❌ **YOU MAY NOT**:
+- Copy, clone, or fork the Software for any purpose
+- Reproduce the code in any form or medium
+- Create derivative works based on the Software
+- Store copies without explicit permission
+- Create backup copies for unauthorized use
+
+### 2.2 Sale & Distribution
+
+❌ **YOU MAY NOT**:
+- Sell, rent, lease, or license the Software
+- Commercially distribute the Software
+- Offer the Software as a service (SaaS)
+- Sublicense the Software to third parties
+- Distribute modified versions of the Software
+- Redistribute the Software in any form
+
+### 2.3 Modification & Derivative Works
+
+❌ **YOU MAY NOT**:
+- Modify, alter, or adapt the Software
+- Create derivative works based on the Software
+- Merge the Software with other software
+- Integrate the Software into other products
+- Remove or modify any proprietary notices
+- Bypass security or licensing mechanisms
+
+### 2.4 Reverse Engineering & Decompilation
+
+❌ **YOU MAY NOT**:
+- Reverse engineer the Software
+- Decompile or disassemble the Software
+- Attempt to derive the source code
+- Extract or adapt any portion of the Software
+- Analyze the architecture or design
+- Perform security testing or penetration testing
+
+### 2.5 Public Distribution
+
+❌ **YOU MAY NOT**:
+- Host the Software on public repositories
+- Upload to GitHub, GitLab, or similar platforms
+- Publish on code sharing platforms
+- Make the Software publicly available
+- Share credentials or access with unauthorized users
+- Display or demonstrate without permission
+
+### 2.6 Unauthorized Use
+
+❌ **YOU MAY NOT**:
+- Use the Software for purposes not authorized in writing
+- Use the Software after license revocation
+- Use the Software with expired licenses
+- Allow others to use the Software
+- Use the Software in violation of applicable laws
+- Use the Software for illegal or unethical purposes
+
+---
+
+## 3. PERMITTED USE
+
+### 3.1 Authorized Use Only
+
+Use of this Software is ONLY permitted:
+
+1. **With Written Authorization** - You must have explicit written permission from Michael Hassan Wanyama
+2. **Under Valid License** - You must have a current, valid commercial license agreement
+3. **For Authorized Purpose** - You must use it only for the purpose specified in your license
+4. **With Proper Attribution** - You must include copyright notices and attribution
+
+### 3.2 Limited Personal Use
+
+For authorized developers only:
+- Internal development and testing
+- Integration with approved systems
+- Maintenance and support (if licensed)
+- Compliance with agreed terms
+
+### 3.3 Educational Use
+
+Educational use is ONLY permitted:
+- With explicit written authorization from Michael Hassan Wanyama
+- For accredited educational institutions
+- Non-commercial research purposes
+- With proper attribution and non-redistribution
+
+---
+
+## 4. AUTHOR VERIFICATION REQUIREMENTS
+
+### 4.1 License Verification
+
+Any use of this Software MUST be accompanied by:
+
+1. **Valid License Key**
+   - Format: ER-APP-2026-[LICENSE-ID]-MHW
+   - Must be non-expired
+   - Must be authenticated by author
+
+2. **Written Authorization**
+   - Signed license agreement
+   - Specific permitted use case
+   - Expiration date
+   - Terms and conditions
+
+3. **Author Verification**
+   - Contact: michael.wanyama@emergencyresponse.app
+   - Verification PIN: Provided with license
+   - Certificate of Use: Upon request
+
+### 4.2 License Key Format
+
+```
+ER-APP-2026-XXXXX-MHW
+├─ ER-APP: Product identifier
+├─ 2026: Copyright year
+├─ XXXXX: Unique license ID
+└─ MHW: Author initials (Michael Hassan Wanyama)
+```
+
+### 4.3 Verification Contact
+
+- **Primary**: michael.wanyama@emergencyresponse.app
+- **Legal**: legal@emergencyresponse.app
+- **Support**: support@emergencyresponse.app
+- **Verification Code**: ER-APP-2026-001-MHW
+
+---
+
+## 5. ENFORCEMENT & PENALTIES
+
+### 5.1 Illegal Reproduction or Distribution
+
+Unauthorized copying, modification, or distribution is a violation of international copyright laws and intellectual property rights.
+
+**Criminal Penalties**:
+- Imprisonment up to 5 years
+- Criminal fines up to $250,000
+- Forfeiture of infringing materials
+
+### 5.2 Civil Liability
+
+Unauthorized use exposes you to civil liability:
+- Statutory damages: Up to $150,000 per violation
+- Actual damages and profits
+- Enhanced damages for willful infringement
+- Attorney's fees and costs
+- Injunctive relief
+
+### 5.3 Cease & Desist
+
+The Licensor may issue cease and desist orders for:
+- Unauthorized reproduction
+- Unauthorized distribution
+- License agreement violations
+- Terms of use violations
+
+### 5.4 Immediate Termination
+
+License will be immediately terminated for:
+- Unauthorized copying or distribution
+- Breach of license terms
+- Unauthorized sublicensing
+- Security violations
+- Fraudulent license key usage
+
+---
+
+## 6. CONFIDENTIALITY
+
+### 6.1 Confidential Information
+
+You agree that the Software and related documentation are confidential:
+- Source code
+- Architecture and design
+- Algorithms and methods
+- Business logic
+- Security implementations
+- API specifications
+
+### 6.2 Non-Disclosure
+
+You MUST NOT disclose:
+- Source code to any third party
+- Implementation details
+- Security vulnerabilities
+- Business logic or algorithms
+- Architecture or design decisions
+- Any portion of the Software
+
+### 6.3 Breach Consequences
+
+Breaches of confidentiality result in:
+- Immediate license termination
+- Legal action for damages
+- Injunctive relief
+- Recovery of damages (minimum $100,000)
+
+---
+
+## 7. WARRANTY DISCLAIMER
+
+### 7.1 AS-IS Provision
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+### 7.2 No Warranties
+
+The Licensor explicitly disclaims:
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement
+- Title
+- Accuracy
+- Reliability
+- Performance
+
+### 7.3 No Liability
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR:
+- Direct damages
+- Indirect damages
+- Incidental damages
+- Consequential damages
+- Lost profits
+- Lost data
+- Business interruption
+- Any other damages
+
+EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+---
+
+## 8. TERMINATION
+
+### 8.1 Automatic Termination
+
+Your license is automatically terminated:
+- Upon expiration of the license term
+- Upon breach of any term of this Agreement
+- Upon discovery of unauthorized use
+- Upon revocation by the Licensor
+- Upon bankruptcy or insolvency
+
+### 8.2 Immediate Termination
+
+The Licensor may immediately terminate for:
+- Unauthorized reproduction or distribution
+- License agreement violations
+- Security violations
+- Unauthorized reverse engineering
+- Fraudulent license usage
+
+### 8.3 Effect of Termination
+
+Upon termination:
+- Your license immediately ceases
+- You must destroy all copies
+- You must return all materials
+- All restrictions remain in effect
+- Previous violations are still actionable
+
+---
+
+## 9. INTELLECTUAL PROPERTY RIGHTS
+
+### 9.1 Ownership
+
+All right, title, and interest in the Software, including all intellectual property rights, are owned exclusively by Michael Hassan Wanyama.
+
+### 9.2 Copyright
+
+© 2026 Michael Hassan Wanyama. All rights reserved.
+
+### 9.3 Trademarks
+
+"Emergency Response App" and associated trademarks are the exclusive property of Michael Hassan Wanyama and may not be used without permission.
+
+### 9.4 Patents
+
+This Software may be covered by one or more patents. Use of the Software constitutes acceptance of all patent claims.
+
+---
+
+## 10. GOVERNING LAW
+
+### 10.1 Jurisdiction
+
+This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflict of laws principles.
+
+### 10.2 Venue
+
+All legal proceedings shall be brought exclusively in the courts of [Jurisdiction].
+
+### 10.3 Severability
+
+If any provision is found unenforceable, all other provisions remain in effect.
+
+---
+
+## 11. GENERAL PROVISIONS
+
+### 11.1 Entire Agreement
+
+This Agreement constitutes the entire agreement between you and the Licensor regarding the Software and supersedes all prior agreements and understandings.
+
+### 11.2 Amendments
+
+This Agreement may only be amended by written instrument signed by Michael Hassan Wanyama.
+
+### 11.3 Waiver
+
+Failing to enforce any right does not constitute a waiver of that right.
+
+### 11.4 Severability
+
+If any provision is invalid, the remaining provisions remain in effect.
+
+---
+
+## 12. CONTACT INFORMATION
+
+### License Verification & Inquiries
+
+**Primary Contact**:
+- Email: michael.wanyama@emergencyresponse.app
+- Name: Michael Hassan Wanyama
+- Title: Author & IP Owner
+
+**Legal Inquiries**:
+- Email: legal@emergencyresponse.app
+- Subject: "License Inquiry"
+
+**Support**:
+- Email: support@emergencyresponse.app
+- Phone: [Contact number]
+
+---
+
+## 13. ACKNOWLEDGMENT
+
+BY USING THIS SOFTWARE, YOU ACKNOWLEDGE THAT:
+
+1. ✓ You have read and understood this License Agreement
+2. ✓ You agree to comply with all terms and conditions
+3. ✓ You understand the restrictions and penalties
+4. ✓ You accept the "as-is" warranty disclaimer
+5. ✓ You understand this software is proprietary
+6. ✓ You have obtained proper authorization to use this Software
+7. ✓ You accept legal liability for violations
+8. ✓ You will not attempt to circumvent restrictions
+
+---
+
+## 14. FINAL NOTICE
+
+### ⚠️ IMPORTANT LEGAL WARNING
+
+**UNAUTHORIZED USE, COPYING, OR DISTRIBUTION OF THIS SOFTWARE IS ILLEGAL.**
+
+**VIOLATORS WILL BE PROSECUTED TO THE FULLEST EXTENT OF THE LAW.**
+
+This includes:
+- Criminal prosecution
+- Civil lawsuits
+- Injunctive relief
+- Monetary damages (up to $150,000 per violation)
+- Attorney's fees and court costs
+
+---
+
+**Last Updated**: January 2026  
+**Version**: 1.0  
+**Effective Date**: January 1, 2026  
+
+**© 2026 Michael Hassan Wanyama. ALL RIGHTS RESERVED.**
+
+**NO REPLICATION. NO SALE. AUTHOR VERIFICATION REQUIRED FOR ALL USE.**
