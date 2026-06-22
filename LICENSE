@@ -1,23 +1,164 @@
-# Emergency Response App - License
+# Emergency Response App – Proprietary Commercial License Agreement
 
-MIT License
+Copyright (c) 2026 Emergency Response App. All rights reserved.
 
-Copyright (c) 2024 Emergency Response App
+---
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. License Grant (Strictly Limited)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This Software is licensed, not sold.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Permission is granted only to access and use the Software for **personal, non-commercial, and evaluation purposes**, subject to strict compliance with this Agreement.
+
+No other rights are granted unless explicitly approved in writing by the Author.
+
+---
+
+## 2. Mandatory Authorization Requirement
+
+ANY use of the Software beyond personal evaluation requires **prior written authorization and identity verification by the Author**.
+
+This includes, but is not limited to:
+
+* Commercial use
+* Deployment in live/production environments
+* Integration into other systems or platforms
+* Modification or derivative works
+* Distribution or sublicensing
+
+Unauthorized use automatically constitutes a violation of this Agreement.
+
+---
+
+## 3. Commercial Licensing
+
+Organizations or individuals seeking to use the Software for commercial purposes must obtain a **separate commercial license agreement** from the Author.
+
+Commercial licensing may include:
+
+* Usage fees
+* Revenue sharing agreements
+* API access restrictions
+* Deployment limitations
+
+---
+
+## 4. Anti-Cloning and Competitive Use Restriction
+
+You may NOT:
+
+* Replicate, clone, or imitate the Software’s architecture, features, or user experience for competitive purposes
+* Develop derivative applications that substantially resemble this Software
+* Use the Software as a blueprint for building competing platforms
+
+Any such activity is considered a direct violation of intellectual property rights.
+
+---
+
+## 5. API and Backend Usage Restrictions
+
+Access to any backend services, APIs, or infrastructure associated with the Software is strictly controlled.
+
+You may NOT:
+
+* Reverse engineer APIs
+* Use unauthorized API keys
+* Scrape, intercept, or replicate backend communication
+* Build third-party integrations without approval
+
+All API usage must be explicitly authorized and may be rate-limited, monitored, or revoked at any time.
+
+---
+
+## 6. Data Protection and Security Obligations
+
+If authorized access is granted, the user must:
+
+* Comply with all applicable data protection laws
+* Ensure secure handling of user data
+* Not store or misuse sensitive information (e.g., ID, location data)
+* Implement encryption standards equivalent to AES-256 where applicable
+
+Failure to meet these obligations results in immediate termination of access.
+
+---
+
+## 7. Ownership and Intellectual Property
+
+All rights, title, and interest in the Software remain exclusively with the Author.
+
+This includes:
+
+* Source code
+* Design and UI/UX
+* System architecture
+* Branding and trademarks
+
+No ownership rights are transferred under this License.
+
+---
+
+## 8. Restrictions
+
+You may NOT:
+
+* Modify or redistribute the Software without authorization
+* Remove or alter copyright notices
+* Use the Software for unlawful or harmful purposes
+* Attempt to bypass security mechanisms
+
+---
+
+## 9. Monitoring and Enforcement
+
+The Author reserves the right to:
+
+* Monitor usage of the Software
+* Audit compliance
+* Suspend or revoke access at any time
+
+Legal action may be taken against violations, including claims for damages and injunctive relief.
+
+---
+
+## 10. Termination
+
+This License is automatically terminated if any terms are violated.
+
+Upon termination:
+
+* All rights granted under this License cease immediately
+* All copies of the Software must be deleted or destroyed
+
+---
+
+## 11. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+---
+
+## 12. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR LIABILITY ARISING FROM THE USE OR INABILITY TO USE THE SOFTWARE.
+
+---
+
+## 13. Governing Law
+
+This Agreement shall be governed and interpreted in accordance with applicable laws in the jurisdiction determined by the Author.
+
+---
+
+## 14. Contact and Authorization
+
+All permission requests, commercial licensing inquiries, and verification processes must be directed to the Author through officially designated communication channels.
+
+---
+
+## 15. Acceptance of Terms
+
+By accessing or using this Software, you acknowledge that you have read, understood, and agreed to be bound by this License Agreement.
+
+---
+
